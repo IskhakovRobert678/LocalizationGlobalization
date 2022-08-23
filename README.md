@@ -1,1 +1,1 @@
-# LocalizationGlobalization
+# LocalizationGlobalization - по гайду(ДЗ)
